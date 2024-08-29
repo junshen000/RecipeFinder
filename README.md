@@ -5,8 +5,7 @@ The .apk file is at the path /recipefinder/build/app/outputs/flutter-apk/app-rel
 
 To excuate the code on flutter: flutter run
 
-The main issue for this app is the api will retrive the text in html formating, and some of the flutter package does not suppor html package as it haven't been updated for 2 years.
-
+The main issue with this app is that the API retrieves the text in HTML formatting, and some Flutter packages do not support the HTML package as they haven't been updated for two years.
 
 
 
